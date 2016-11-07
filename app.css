@@ -1,0 +1,13 @@
+body, html, #container {
+    height: 100%;
+    width: 100%;
+}
+
+.l-btn:active {
+    opacity: 0.6;
+}
+
+.tree-node-selected,
+.datagrid-row-selected {
+    background: #fff0c2;
+}

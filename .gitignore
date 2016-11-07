@@ -1,0 +1,11 @@
+.idea
+node_modules
+bower_modules
+icons
+jqwidgets
+css
+js
+*.js
+*.rar
+*.zip
+
